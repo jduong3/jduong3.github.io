@@ -2,10 +2,17 @@ body{
 	
 font-family: "Helvetica", "Arial", fantasy;
 
+<<<<<<< HEAD
 color: #DDDCDC;
 	background-color: #5E3C58;
 	
 text-shadow: 2px 2px #767676;
+=======
+color: #AAFF00;
+	background-color: #ADD3F9;
+	
+text-shadow: 1px 1px #ff0000;
+>>>>>>> 498bc29a131a9d0da5c3e92aa5f9d51e222f6689
 	text-align: center;
 
 }
@@ -18,14 +25,22 @@ font-size: 1.3em;
 	
 text-align: center;
 	
+<<<<<<< HEAD
 text-shadow: 2px 2px #767676;
+=======
+text-shadow: 1px 1px #ff0000;
+>>>>>>> 498bc29a131a9d0da5c3e92aa5f9d51e222f6689
 
 }
 
 
 td, th {
     
+<<<<<<< HEAD
 border: 3px solid #dddddd;
+=======
+border: 1px solid #dddddd;
+>>>>>>> 498bc29a131a9d0da5c3e92aa5f9d51e222f6689
     
 text-align: left;
     
@@ -37,6 +52,10 @@ padding: 8px;
 
 tr:nth-child(even) {
     
+<<<<<<< HEAD
 background-color: #BFB5B2;
+=======
+background-color: #dddddd;
+>>>>>>> 498bc29a131a9d0da5c3e92aa5f9d51e222f6689
 
 }
